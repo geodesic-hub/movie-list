@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea.",
+    "imageUrl": "https://placehold.co/300x200?text=Inception"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "description": "Batman faces the Joker, a criminal mastermind who plunges Gotham City into chaos.",
+    "imageUrl": "https://placehold.co/300x200?text=The+Dark+Knight"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "imageUrl": "https://placehold.co/300x200?text=Interstellar"
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "description": "A hacker discovers reality as he knows it is a simulation and joins a rebellion against its controllers.",
+    "imageUrl": "https://placehold.co/300x200?text=The+Matrix"
+  },
+  {
+    "id": 5,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "description": "The Avengers assemble to undo Thanos's actions and restore order to the universe.",
+    "imageUrl": "https://placehold.co/300x200?text=Avengers+Endgame"
+  }
+]
